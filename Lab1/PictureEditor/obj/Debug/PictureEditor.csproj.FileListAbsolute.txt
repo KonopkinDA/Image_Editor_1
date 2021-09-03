@@ -1,0 +1,20 @@
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe.config
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.pdb
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csprojAssemblyReference.cache
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Form1.resources
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Properties.Resources.resources
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.GenerateResource.cache
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.exe
+C:\Users\wowdi\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe.config
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\bin\Debug\PictureEditor.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csprojAssemblyReference.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Form1.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Properties.Resources.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.GenerateResource.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\PictureEditor\PictureEditor\obj\Debug\PictureEditor.pdb
